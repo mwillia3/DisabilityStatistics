@@ -5,7 +5,8 @@ Portfolio Project – Exploration on the impact of disabilities on employment, p
 Explore the impact of disabilities on employment, poverty levels, and earning with a keen focus on understanding contributing factors such as disability categories, race, gender, and age.
 
 # Project Deliverables
--	Tableau Dashboard ([https://public.tableau.com/views/U_S_DisabilityStatisticsExploratoryAnalysis/DisabilityStory?:language=en-US&:display_count=n&:origin=viz_share_link]) 
+-	Tableau Dashboard
+([https://public.tableau.com/views/U_S_DisabilityStatisticsExploratoryAnalysis/DisabilityStory?:language=en-US&:display_count=n&:origin=viz_share_link]) 
 -	Initial Data Report
 ([https://docs.google.com/spreadsheets/d/1n7n3ikyBxx32HwHdCVVRsxbPJR_4aSuH/edit?usp=sharing&ouid=118169016813550691888&rtpof=true&sd=true])
 
