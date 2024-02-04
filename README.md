@@ -18,9 +18,13 @@ Explore the impact of disabilities on employment, poverty levels, and earning wi
 
 # Folders
 01 Project Management: Project Brief
+
 02 Data: Original Data and Prepared Data Sets
+
 03 Scripts: HTML and jupyter notebook versions of scripts needed for project
+
 04 Analysis: Visualizations not made on Tableau that were included in Report
+
 05 Sent to Client: Initial Data Report 
 
 # Tools
