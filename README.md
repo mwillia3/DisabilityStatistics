@@ -6,8 +6,10 @@ Explore the impact of disabilities on employment, poverty levels, and earning wi
 
 # Project Deliverables
 -	Tableau Dashboard
+  
 ([https://public.tableau.com/views/U_S_DisabilityStatisticsExploratoryAnalysis/DisabilityStory?:language=en-US&:display_count=n&:origin=viz_share_link]) 
 -	Initial Data Report
+  
 ([https://docs.google.com/spreadsheets/d/1n7n3ikyBxx32HwHdCVVRsxbPJR_4aSuH/edit?usp=sharing&ouid=118169016813550691888&rtpof=true&sd=true])
 
 # Data
@@ -33,13 +35,21 @@ Explore the impact of disabilities on employment, poverty levels, and earning wi
 
 # Skills Demonstrated
 •	Domain Specific Research
+
 •	Collecting open-source data & creatively wrangling datasets
+
 •	Exploratory Data Analysis: correlation, pairplots heatmaps
+
 •	Python visualizations
+
 •	Geospatial analysis
+
 •	Supervised Machine Learning: Linear Regression
+
 •	Unsupervised Machine learning: Principle Components Analysis, K-means Clustering
+
 •	Time-Series Analysis and Forecasting (ARIMA)
+
 •	Differentiated Dashboard Storytelling
 
 # Notes on Data Limitations
