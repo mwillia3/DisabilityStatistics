@@ -7,16 +7,19 @@ Explore the impact of disabilities on employment, poverty levels, and earning wi
 # Project Deliverables
 -	Tableau Dashboard
   
-([https://public.tableau.com/views/U_S_DisabilityStatisticsExploratoryAnalysis/DisabilityStory?:language=en-US&:display_count=n&:origin=viz_share_link]) 
+https://public.tableau.com/views/U_S_DisabilityStatisticsExploratoryAnalysis/DisabilityStory?:language=en-US&:display_count=n&:origin=viz_share_link 
 -	Initial Data Report
   
-([https://docs.google.com/spreadsheets/d/1n7n3ikyBxx32HwHdCVVRsxbPJR_4aSuH/edit?usp=sharing&ouid=118169016813550691888&rtpof=true&sd=true])
+https://docs.google.com/spreadsheets/d/1n7n3ikyBxx32HwHdCVVRsxbPJR_4aSuH/edit?usp=sharing&ouid=118169016813550691888&rtpof=true&sd=true
 
 # Data
--	2023 Annual Disability Statistics Collection (ADSC) 
+-	2023 Annual Disability Statistics Collection (ADSC)
+  
     o	Compendium
+
     o	Supplement
-([https://disabilitycompendium.org/html-documents])
+ 	
+https://disabilitycompendium.org/html-documents
 
 # Folders
 01 Project Management: Project Brief
